@@ -70,3 +70,31 @@
 70. Norwegian: Jeg elsker deg
 71. Odia (Oriya): ମୁଁ ତୁମକୁ ଭଲପାଏ
 72. Pashto: زه تا سره مینه لرم
+73. Persian: دوستت دارم
+74. Polish: Kocham cię
+75. Portuguese: Eu te amo
+76. Punjabi: ਮੈਂ ਤੁਹਾਨੂੰ ਪਿਆਰ ਕਰਦਾ ਹਾਂ
+77. Romanian: Te iubesc
+78. Russian: Я тебя люблю
+79. Samoan: Oute alofa ia oe
+80. Scots Gaelic: Tha gaol agam ort
+81. Serbian: Волим те
+82. Sesotho: kea u rata
+83. Shona: Ndinokuda
+84. Sindhi: مان توهان سان پيار ٿو ڪيان
+85. Sinhala: මම ඔයාට ආදරෙයි
+86. Slovak: Ľúbim ťa
+87. Slovenian: Ljubim te
+88. Somali: waan ku jeclahay
+89. Spanish: Te amo
+90. Sundanese: abdi bogoh ka anjeun
+91. Swahili: nakupenda
+92. Swedish: jag älskar dig
+93. Tajik: Ман туро дӯст медорам
+94. Tamil: நான் உன்னை காதலிக்கிறேன்
+95. Tatar: мин сине яратам
+96. Telugu: నేను నిన్ను ప్రేమిస్తున్నాను
+97. Thai: ฉันรักคุณ
+98. Turkish: Seni seviyorum
+99. Turkmen: men seni söýýärin
+100. Ukrainian: я тебе люблю
